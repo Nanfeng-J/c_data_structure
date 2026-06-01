@@ -1,0 +1,24 @@
+﻿  Contact.c
+  Seqlist.c
+  test.c
+E:\gitee code\c_-data_-structure\SeqList\Contact.c(31,20): warning C4047: “<”:“int”与“char [20]”的间接级别不同
+E:\gitee code\c_-data_-structure\SeqList\Contact.c(33,7): warning C4013: “strcmpy”未定义；假设外部返回 int
+E:\gitee code\c_-data_-structure\SeqList\Contact.c(54,21): warning C4474: printf: 格式字符串中传递的参数太多
+      E:\gitee code\c_-data_-structure\SeqList\Contact.c(54,21):
+      占位符和其参数预计 1 可变参数，但提供的却是 7 参数
+  
+E:\gitee code\c_-data_-structure\SeqList\Contact.c(57,24): warning C4474: printf: 格式字符串中传递的参数太多
+      E:\gitee code\c_-data_-structure\SeqList\Contact.c(57,24):
+      占位符和其参数预计 1 可变参数，但提供的却是 7 参数
+  
+E:\gitee code\c_-data_-structure\SeqList\Contact.c(90,21): warning C4474: printf: 格式字符串中传递的参数太多
+      E:\gitee code\c_-data_-structure\SeqList\Contact.c(90,21):
+      占位符和其参数预计 1 可变参数，但提供的却是 7 参数
+  
+E:\gitee code\c_-data_-structure\SeqList\Contact.c(91,24): warning C4474: printf: 格式字符串中传递的参数太多
+      E:\gitee code\c_-data_-structure\SeqList\Contact.c(91,24):
+      占位符和其参数预计 1 可变参数，但提供的却是 7 参数
+  
+E:\gitee code\c_-data_-structure\SeqList\Seqlist.c(29,4): warning C4098: “SeqCheckCapacity”:“void”函数返回值
+  正在生成代码...
+E:\gitee code\c_-data_-structure\SeqList\test.c(1,1): error C1090: PDB API 调用失败，错误代码“3”: E:\gitee code\c_-data_-structure\SeqList\SeqList\x64\Debug\vc143.pdb

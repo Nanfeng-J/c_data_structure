@@ -1,0 +1,3 @@
+﻿  SList.c
+E:\数据结构\SList\SList.c(8,6): warning C4047: “return”:“node *”与“int”的间接级别不同
+  SList.vcxproj -> E:\数据结构\SList\x64\Debug\SList.exe
